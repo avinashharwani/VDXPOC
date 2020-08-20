@@ -1,0 +1,15 @@
+Pre
+LWC
+Angular 1.0 basics
+Salesforce
+
+Trainings
+	Vlocity platform essentials
+	Cards
+	Layouts
+	OmniScripts
+	Data Raptor
+	IP
+	Calculation Matrix
+	
+Data Model
