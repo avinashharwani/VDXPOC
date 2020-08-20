@@ -2,6 +2,7 @@ Pre
 LWC
 Angular 1.0 basics
 Salesforce!!!
+My changes
 
 Trainings
 	Vlocity platform essentials
